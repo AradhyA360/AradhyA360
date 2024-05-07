@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+# 💫 Aradhya Priyadarshi
 Dedicated to addressing challenges, programming, and effectively implementing solutions. Possessing a profound<br>fascination with Data Structures and Algorithms. The expertise extends to CPP, Python, and Frontend Development.<br>Currently pursuing a Bachelor of Technology degree, specialization in Information Technology.
 
 
@@ -15,14 +16,6 @@ Dedicated to addressing challenges, programming, and effectively implementing so
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AradhyA360&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AradhyAz1000) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
